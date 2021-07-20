@@ -1,1 +1,2 @@
-This app is used to make College Life convenient through connecting students specifically in Brandeis. There are scenarios that student make transactions such as selling books, used furniture and commodities, subletting, and car rides. Our app can connect students who are looking for sellers, sublets, and rides, allowing users to find another student easier with the advantage of sharing the same location. Signing up for the app platform needs to be verified as a student to ensure safety if it involves subletting and share rides. 
+#Project report: 
+https://drive.google.com/file/d/19YUgeeWqt6UX3TBQPxwVlAxWDp7MKEie/view?usp=sharing
